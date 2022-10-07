@@ -1,0 +1,1 @@
+# rescript-sqlc-process-plugin
